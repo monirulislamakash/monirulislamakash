@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨  I’m currently working on a Food-App & CRM<br>👨‍💻 All of my projects are available at: https://github.com/monirulislamakash/<br>📫 How to reach me: monirulislamakash18@gmail.com<br>🎲 Fun fact: I create YouTube Video</p>
+<p align="left">👋Hello,<br>I'm a seasoned Full Stack Developer with a passion for creating robust, scalable, and high-performance web applications. With 4 years of hands-on experience in Full-stack technology, I bring a comprehensive skill set to the table.<br>✨  I’m currently working on a Food-App & CRM<br>👨‍💻 All of my projects are available at: https://github.com/monirulislamakash/<br>📫 How to reach me: monirulislamakash18@gmail.com<br>🎲 Fun fact: I create YouTube Video</p>
 
 ###
 
